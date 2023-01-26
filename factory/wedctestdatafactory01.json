@@ -1,0 +1,9 @@
+{
+	"name": "wedctestdatafactory01",
+	"location": "westeurope",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "2bf19733-9dc3-4d31-8a06-528e50faca2a",
+		"tenantId": "1d7b8277-889d-4b3f-a298-c2119d3c6c89"
+	}
+}
