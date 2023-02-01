@@ -1,0 +1,9 @@
+{
+	"name": "wedctrainingadfxx",
+	"location": "westeurope",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "a06f0a46-5130-4651-83fc-e61dfd192627",
+		"tenantId": "1d7b8277-889d-4b3f-a298-c2119d3c6c89"
+	}
+}
